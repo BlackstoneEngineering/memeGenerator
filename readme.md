@@ -13,4 +13,4 @@ Run a command like so
 `./meme.py "some example text" `
 
 and get an output like so...
-![memeGenerator Output](https://github.com/BlackstoneEngineering/memeGenerator/blob/master/output.jpg)
+![memeGenerator Output](https://github.com/BlackstoneEngineering/memeGenerator/blob/master/output.png)
